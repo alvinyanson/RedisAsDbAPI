@@ -52,3 +52,7 @@ Open Postman and access the provided endpoints.
 - Get All Platforms - https://localhost:7236/api/platforms
 - Get Platform By Id - https://localhost:7236/api/platforms/{id}
 - Add New Pecord - https://localhost:7236/api/platforms ( Sample payload - {"name": "Redis"} )
+
+## Redis Insight
+![RedisInsight](https://raw.githubusercontent.com/alvinyanson/RedisAsDbAPI/master/Screenshot%202024-09-11%20123356.png)
+
